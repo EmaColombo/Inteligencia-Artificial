@@ -1,0 +1,3 @@
+1: Arroja el siguiente error: your computer does not have enough free memoryto automatically analyze the problem and send a report to the developers
+3: Arroja el siguiente error: your computer does not have enough free memoryto automatically analyze the problem and send a report to the developers
+5: Arroja el siguiente error: your computer does not have enough free memoryto automatically analyze the problem and send a report to the developers

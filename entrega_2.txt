@@ -1,0 +1,2 @@
+1:{'A': 'bahias_carga', 'C': 'cabina', 'B': 'escudo', 'E': 'bahias_carga', 'D': 'bahias_carga', 'G': 'SVE', 'F': 'motor', 'I': 'cabina', 'H': 'laser', 'K': 'SVE', 'J': 'bahias_carga', 'M': 'bahias_carga', 'L': 'cabina', 'O': 'motor', 'N': 'bahias_carga', 'Q': 'motor', 'P': 'bahias_carga'}
+2:{'A': 'cabina', 'C': 'SVE', 'B': 'bahias_carga', 'E': 'cabina', 'D': 'laser', 'G': 'escudo', 'F': 'bahias_carga', 'I': 'laser', 'H': 'cabina', 'K': 'escudo', 'J': 'cabina', 'M': 'cabina', 'L': 'bahias_carga', 'O': 'bahias_carga', 'N': 'escudo', 'Q': 'SVE', 'P': 'cabina'}
